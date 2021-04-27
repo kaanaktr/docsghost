@@ -2,7 +2,7 @@
 
 👋 Bu website onaylı bot olan Ghost Bot website altyapısıdır.
 
-👻 **Bot İnvite : http://ghost-bot.gq/davet** 
+👻 **Bot İnvite : http://www.ghost-bot.gq/davet** 
 
 🔧 Archex Team <3
 
