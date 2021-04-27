@@ -1,4 +1,5 @@
 👋 This website is an approved bot Ghost Bot website infrastructure.
+
 👋 Bu website onaylı bot olan Ghost Bot website altyapısıdır.
 
 👻 **Bot İnvite : http://ghost-bot.gq/davet** 
