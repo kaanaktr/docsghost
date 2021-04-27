@@ -1,0 +1,2 @@
+# docsghost
+Ghost Bot WebSite
